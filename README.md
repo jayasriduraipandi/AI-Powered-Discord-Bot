@@ -3,7 +3,6 @@ This project is an intelligent employee-manager engagement bot system developed 
 # Employee Management Discord Bot
 
 ## 📌 Project Overview
-This project involves the development of an intelligent and interactive Discord bot designed to enhance employee management and engagement within an organization. The bot facilitates tasks such as employee-manager communication, daily updates, attendance tracking, leave requests, task management, and more. It aims to reduce workplace stress, improve connectivity, and automate several HR-related operations.
 
 ## 🎯 Objectives
 - To create a user-friendly Discord bot for seamless communication between employees and managers.
