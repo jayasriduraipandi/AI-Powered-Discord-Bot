@@ -12,7 +12,7 @@ This project involves the development of an intelligent and interactive Discord 
 - To enhance employee recognition and motivation through reminders, quotes, and birthday greetings.
 - To provide role-based access and task delegation functionalities.
 - To promote transparency and engagement within the workplace.
-
+  
 ## ❓ Problem Statement
 In traditional systems, employee engagement and task tracking are often scattered and inefficient. Manual attendance, leave approvals, and lack of communication tools hinder productivity. This bot offers a centralized, automated solution integrated into Discord—a platform widely used for communication.
 
@@ -51,7 +51,7 @@ In traditional systems, employee engagement and task tracking are often scattere
 - MySQL Server
 - Discord Application
 - VS Code Editor
-
+- 
 ## 💽 Hardware Requirements
 - Processor: Intel i3 or higher
 - RAM: 4 GB minimum
